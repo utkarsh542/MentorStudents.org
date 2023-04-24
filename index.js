@@ -12,14 +12,14 @@ const products = [
     name: "Product 1",
     price: 100,
     ratings: 4.5,
-    description: "Description of Product 1",
+    description: "26",
   },
   {
     _id: "p22",
     name: "Product 2",
     price: 200,
     ratings: 4.0,
-    description: "Description of Product 2",
+    description: "26",
   },
 ];
 
